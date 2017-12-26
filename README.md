@@ -1,2 +1,2 @@
 # elasticsearch
-recover logastash failed entries found in elasticsearch logs
+bash script to recover logastash failed insert attempts (to new index) based on elasticsearch logs (has to be debug level)
